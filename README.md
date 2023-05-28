@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me through my insta handle
+- 📫 You can reach me through my insta handle
 
 <!---
 abhigit812/abhigit812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
