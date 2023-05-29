@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhigit812 , currently i am pursuing Btech. in Electronics and Computer Science Engineering from KIIT Bhubaneshwar.  
+- 👋 Hi, I’m Abhinav , currently i am pursuing Btech. in Electronics and Computer Science Engineering from KIIT Bhubaneshwar.  
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Web projects
