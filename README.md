@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Abhinav Ravi, a enginnering student passionate about development. I love exploring new technologies and collaborating on open-source projects.
+I'm Abhinav Ravi, a engineering student passionate about development. I love exploring new technologies and collaborating on open-source projects.
 
 🌱 Currently learning Tailwind CSS to enhance my expertise in it.
 
