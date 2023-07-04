@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Abhinav , currently i am pursuing Btech. in Electronics and Computer Science Engineering from KIIT Bhubaneshwar.  
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 You can reach me through my insta handle
+Hi there! 👋
+I'm Abhinav Ravi, a enginnering student passionate about development. I love exploring new technologies and collaborating on open-source projects.
 
-<!---
-abhigit812/abhigit812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning Tailwind CSS to enhance my expertise in it.
+
+💼 I am currently pursuing Btech. in Electronics and Computer Science Engineering from KIIT University, Bhubaneshwar. I am detail-oriented problem-solver with a passion for high-quality solutions.
+
+🌟 Let's connect! Reach me via my insta handle. Excited to collaborate and build something incredible together!
+
