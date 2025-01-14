@@ -5,5 +5,5 @@ I'm Abhinav Ravi, a engineering student passionate about development. I love exp
 
 💼 I am currently pursuing Btech. in Electronics and Computer Science Engineering from KIIT University, Bhubaneshwar. I am detail-oriented problem-solver with a passion for high-quality solutions.
 
-🌟 Let's connect! Reach me via my insta handle. Excited to collaborate and build something incredible together!
+🌟 Let's connect! Reach me via my insta or linkedin handle. Excited to collaborate and build something incredible together!
 
